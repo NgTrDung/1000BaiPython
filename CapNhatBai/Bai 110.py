@@ -15,7 +15,7 @@ def main():
 
     find_combinations(total_amount, n1000, n2000, n5000)
 
-# Test rollback
+# Test rollback (chính thức)
 
 if __name__ == "__main__":
     main()
